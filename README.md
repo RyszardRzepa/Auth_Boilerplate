@@ -1,6 +1,7 @@
 
 
 # Auth_Boilerplate
+AUTH_API boilerplate for mongodb.
 
 Solid protected route-auth boilerplate for web or mobile application.
  
@@ -9,5 +10,7 @@ Solid protected route-auth boilerplate for web or mobile application.
     > cd ReduxSimpleStarter
     > npm install
     > npm start
+    
+ 
   
   
